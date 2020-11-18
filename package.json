@@ -1,8 +1,8 @@
 {
   "name": "hello_world",
-  "productName": "hello, world",
+  "productName": "helloworld",
   "version": "1.0.0",
-  "description": "hello, world",
+  "description": "helloworld",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
@@ -42,7 +42,7 @@
       },
       "windowsStoreConfig": {
         "packageName": "",
-        "name": "Hello, World!"
+        "name": "hello-world"
       }
     }
   },
